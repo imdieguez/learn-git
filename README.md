@@ -1,7 +1,1 @@
-Meu primeiro sistema GIT. Feito hoje!
-
-Alteração no README.md para teste.
-
-Bug ajustado com sucesso. Check!
-
-Bug não está mais aparecendo. Pronto para lançar V2.0.
+Exercício para integrar o Git com o Github, fazendo com que o trabalho seja facilitado e também gerar aprendizado sobre as ferramentas.
