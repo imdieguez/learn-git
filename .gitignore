@@ -1,2 +1,3 @@
-senha.txt
-banco_dados.sql
+*.txt
+*.sql
+qualquer/
